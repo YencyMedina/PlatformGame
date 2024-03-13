@@ -24,6 +24,7 @@
     {"name":"sGrain","order":8,"path":"sprites/sGrain/sGrain.yy",},
     {"name":"sInvisibleWall","order":1,"path":"sprites/sInvisibleWall/sInvisibleWall.yy",},
     {"name":"sPlayerR","order":5,"path":"sprites/sPlayerR/sPlayerR.yy",},
+    {"name":"obj_control","order":2,"path":"objects/obj_control/obj_control.yy",},
     {"name":"sBackground","order":2,"path":"sprites/sBackground/sBackground.yy",},
     {"name":"sClouds","order":7,"path":"sprites/sClouds/sClouds.yy",},
   ],

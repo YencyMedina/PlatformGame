@@ -13,9 +13,14 @@ hsp = _move * walksp;
 
 vsp = vsp + grv;
 
-if (place_meeting(x, y+1, oWall)) and (key_jump){
+//jump
+if (place_meeting(x, y+1, oWall)){
+	currjumps = 0;
+}
+
+if (key_jump) and (currjumps < maxjumps){
 	vsp = -jumpsp;
-	
+	currjumps += 1;
 }
 
 //Horiz collisions

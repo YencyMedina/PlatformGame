@@ -19,10 +19,12 @@
   "ResourceOrderSettings": [
     {"name":"sPlayer","order":3,"path":"sprites/sPlayer/sPlayer.yy",},
     {"name":"sPlayerA","order":4,"path":"sprites/sPlayerA/sPlayerA.yy",},
+    {"name":"oCheckpoint","order":3,"path":"objects/oCheckpoint/oCheckpoint.yy",},
     {"name":"oWall","order":1,"path":"objects/oWall/oWall.yy",},
     {"name":"sWalls","order":6,"path":"sprites/sWalls/sWalls.yy",},
     {"name":"sGrain","order":8,"path":"sprites/sGrain/sGrain.yy",},
     {"name":"sInvisibleWall","order":1,"path":"sprites/sInvisibleWall/sInvisibleWall.yy",},
+    {"name":"sCheckpoint","order":9,"path":"sprites/sCheckpoint/sCheckpoint.yy",},
     {"name":"sPlayerR","order":5,"path":"sprites/sPlayerR/sPlayerR.yy",},
     {"name":"obj_control","order":2,"path":"objects/obj_control/obj_control.yy",},
     {"name":"sBackground","order":2,"path":"sprites/sBackground/sBackground.yy",},

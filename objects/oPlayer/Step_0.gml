@@ -44,10 +44,10 @@ y = y + vsp;
 //Animation
 
 if (!place_meeting(x, y+1, oWall)){
-	sprite_index = sPlayerA;
+	sprite_index = sPlayerJump;
 	image_speed = 0;
 	if (vsp > 0){
-		image_index = 1;
+		image_index = 7;
 	}
 	else{
 		image_index = 0;
@@ -57,7 +57,7 @@ if (!place_meeting(x, y+1, oWall)){
 else{
 	image_speed = 1;
 	if (hsp == 0){
-		sprite_index = sPlayer;
+		sprite_index = sPlayer_Idle;
 	}
 	else{
 		sprite_index = sPlayerR;

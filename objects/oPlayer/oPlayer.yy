@@ -30,12 +30,12 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "sPlayer_Idle",
-    "path": "sprites/sPlayer_Idle/sPlayer_Idle.yy",
+    "name": "sPlayer",
+    "path": "sprites/sPlayer/sPlayer.yy",
   },
   "spriteMaskId": {
-    "name": "sPlayer_Idle",
-    "path": "sprites/sPlayer_Idle/sPlayer_Idle.yy",
+    "name": "sPlayer",
+    "path": "sprites/sPlayer/sPlayer.yy",
   },
   "visible": true,
 }
